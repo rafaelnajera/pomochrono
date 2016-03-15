@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=pomochrono
+GenericName=Pomodoro Chronometer
+Comment=Pomodoro Chronometer
+#Version=1.0
+Type=Application
+Categories=Accesories;Utility;
+Exec=pomochrono
+Terminal=false
+StartupNotify=true
+Icon=pomochrono
+Name[en_US]=pomochrono.desktop
